@@ -14,7 +14,7 @@ Parallel track (non-code, start now because these have waiting periods)
 Build modules
 
 [✅] M0. Project setup: Next.js 14, TypeScript strict, Tailwind, lint/format, folder structure, env validation
-[ ] M1. Config layer: site, theme, fonts, navigation, business/GST, shipping, messaging templates, products, consultation categories
+[✅] M1. Config layer: site, theme, fonts, navigation, business/GST, shipping, messaging templates, products, consultation categories
 [ ] M2. Design system and layout shell: Tailwind tokens driven by config, header, footer, WhatsApp floating button, base UI components
 [ ] M3. Static pages: Home, About Us, Contact, legal pages (Razorpay needs these before going live)
 [ ] M4. Database: Prisma schema, migrations, client singleton, seed script

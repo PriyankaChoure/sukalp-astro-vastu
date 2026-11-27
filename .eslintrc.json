@@ -30,7 +30,7 @@
   },
   "overrides": [
     {
-      "files": ["src/repositories/**", "src/config/**", "prisma/seed.ts"],
+      "files": ["src/repositories/**", "src/config/**", "prisma/seed.ts", "scripts/**"],
       "rules": { "no-restricted-imports": "off" }
     },
     { "files": ["scripts/**"], "rules": { "no-console": "off" } }
